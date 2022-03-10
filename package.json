@@ -1,0 +1,19 @@
+{
+  "name": "my-algorithm",
+  "version": "1.0.0",
+  "description": "LeetCode算法题解",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimutuyuan-feng/my-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimutuyuan-feng/my-algorithm/issues"
+  },
+  "homepage": "https://github.com/rimutuyuan-feng/my-algorithm#readme"
+}
