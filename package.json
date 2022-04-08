@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rimutuyuan-feng/my-algorithm/issues"
   },
-  "homepage": "https://github.com/rimutuyuan-feng/my-algorithm#readme"
+  "homepage": "https://github.com/rimutuyuan-feng/my-algorithm#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
 }
